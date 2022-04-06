@@ -6,5 +6,6 @@ me casualy trying to write my own operating system
  - [x] long_mode support
  - [x] 64 bits
  - [x] print with c
+ - [ ] IDT
  - [ ] keyboard managment
  - [ ] terminal app with a fancy motd
