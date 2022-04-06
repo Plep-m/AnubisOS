@@ -17,6 +17,4 @@ long_mode_start:
     mov gs, ax
     call banner
 	call kernel_main
-    
     hlt
-
