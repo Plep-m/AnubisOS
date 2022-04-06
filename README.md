@@ -6,7 +6,7 @@ me casualy trying to write my own operating system
  - [x] long_mode support
  - [ ] protected-mode
  - [x] 64 bits
- - [x] print with c
+ - [x] print with c++
  - [ ] GDT
  - [ ] IDT
  - [ ] disk managment
