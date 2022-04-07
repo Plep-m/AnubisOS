@@ -14,7 +14,8 @@ me casualy trying to write my own operating system
  - [ ] terminal app with a fancy motd
 
 ## run
-git clone into linux with binutils 3.27 and gcc 11.2 installed 
+git clone into linux with binutils 3.27 and gcc 11.2 installed <br>
+also need nasm xorriso grub-pc-bin et grub-common
 make build-x86-64
 
 use qemu on windows  qemu-system-x86_64 -cdrom .\kernel.iso
